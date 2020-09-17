@@ -1,0 +1,35 @@
+body{
+  background:rgb(94,184,118);
+}
+.fullbleed{
+  border:6px solid pink;
+  margin: 0;
+  width: 100vw;
+  margin-left: 50%;
+  transform: translateX(-50%);
+}
+
+.fullbleed img{
+  width: 100%;
+}
+
+section{
+  background: rgb(200,255,251);
+  max-width: 840px;
+  margin: 0 auto;
+}
+
+header{
+  background: red;
+  color: white;$min-height: 15vh;
+  min-height: 15vh;
+}
+
+.navigation{
+  display: flex;
+}
+
+h1{
+  font-size: 5em;
+  text-align: center;
+}
